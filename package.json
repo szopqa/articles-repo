@@ -1,0 +1,25 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Knowledge app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "Michal",
+    "Szopa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "connect-flash": "^0.1.1",
+    "express": "^4.15.3",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.4",
+    "express-validator": "^3.2.1",
+    "mongodb": "^2.2.30",
+    "pug": "^2.0.0-rc.2"
+  }
+}
